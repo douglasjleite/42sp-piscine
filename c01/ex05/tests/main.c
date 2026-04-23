@@ -1,8 +1,0 @@
-void	ft_putstr(char *str);
-
-int	main(void)
-{
-	ft_putstr("Douglas\n");
-
-	return 0;
-}
