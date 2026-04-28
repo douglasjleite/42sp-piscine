@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <stdio.h>
-// #include <stdlib.h>
-
 int	ft_iterative_factorial(int nb)
 {
 	int	i;
@@ -31,23 +28,3 @@ int	ft_iterative_factorial(int nb)
 	}
 	return (result);
 }
-
-// int	main(int argc, char **argv)
-// {
-// 	int	nb;
-// 	int	result;
-
-// 	nb = 0;
-// 	result = 0;
-// 	if (argc == 2)
-// 	{
-// 		nb = atoi(argv[1]);
-// 		result = ft_iterative_factorial(nb);
-// 		printf("Fatorial de %d: %d\n", nb, result);
-// 	}
-// 	else
-// 	{
-// 		printf("Uso: ./a.out <numero>\n");
-// 	}
-// 	return (0);
-// }

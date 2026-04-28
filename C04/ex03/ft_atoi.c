@@ -38,24 +38,3 @@ int	ft_atoi(char *str)
 	}
 	return (result * sign);
 }
-
-// #include <stdio.h>
-
-// int	main(int argc, char *argv[])
-// {
-// 	int	i;
-
-// 	if (argc < 2)
-// 	{
-// 		printf("Uso: ./a.out <number1> <number2>..\n");
-// 		return (1);
-// 	}
-
-// 	i = 1;
-// 	while (i < argc)
-// 	{
-// 		printf("Entrada: \"%s\" Saída: %d\n", argv[i], ft_atoi(argv[i]));
-// 		i++;
-// 	}
-// 	return (0);
-// }

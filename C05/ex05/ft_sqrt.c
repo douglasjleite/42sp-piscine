@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <stdio.h>
-// #include <stdlib.h>
-
 int	ft_sqrt(int nb)
 {
 	int	i;
@@ -32,23 +29,3 @@ int	ft_sqrt(int nb)
 	}
 	return (0);
 }
-
-// int	main(int argc, char **argv)
-// {
-// 	int	nb;
-// 	int	result;
-
-// 	nb = 0;
-// 	result = 0;
-// 	if (argc != 2)
-// 	{
-// 		return (0);
-// 	}
-// 	else
-// 	{
-// 		nb = atoi(argv[1]);
-// 		result = ft_sqrt(nb);
-// 		printf("A raíz quadrada de %d é: %d", nb, result);
-// 	}
-// 	return (0);
-// }

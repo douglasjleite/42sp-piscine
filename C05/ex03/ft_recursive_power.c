@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <stdio.h>
-// #include <stdlib.h>
-
 int	ft_recursive_power(int nb, int power)
 {
 	int	result;
@@ -28,24 +25,3 @@ int	ft_recursive_power(int nb, int power)
 	result = (nb * ft_recursive_power(nb, power - 1));
 	return (result);
 }
-
-// int	main(int argc, char **argv)
-// {
-// 	int	nb;
-// 	int	pwr;
-// 	int	result;
-
-// 	result = 0;
-// 	if (argc == 3)
-// 	{
-// 		nb = atoi(argv[1]);
-// 		pwr = atoi(argv[2]);
-// 		result = ft_recursive_power(nb, pwr);
-// 		printf("%d elevado a %d é: %d\n", nb, pwr, result);
-// 	}
-// 	else
-// 	{
-// 		printf("Uso: %s <base> <potencia>\n", argv[0]);
-// 	}
-// 	return (0);
-// }

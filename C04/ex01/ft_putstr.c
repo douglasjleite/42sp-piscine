@@ -23,11 +23,3 @@ void	ft_putstr(char *str)
 		i++;
 	}
 }
-
-// int	main(void)
-// {
-// 	char str[] = "Hello World!";
-
-// 	write (1, &str, 20);
-// 	return (0);
-// }

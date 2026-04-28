@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <stdio.h>
-
 void	ft_rev_int_tab(int *tab, int size)
 {
 	int	i;
@@ -26,31 +24,3 @@ void	ft_rev_int_tab(int *tab, int size)
 		i++;
 	}
 }
-
-/*
-int	main(void)
-{
-	int	i;
-	int	size;
-	int	tab[] = {1, 2, 3, 4, 5};
-
-	size = 5;
-	printf("Antes : ");
-	i = 0;
-	while (i < size)
-	{
-		printf("%d", tab[i]);
-		i++;
-	}
-	ft_rev_int_tab(tab, size);
-
-	printf("\nDepois : ");
-	i = 0;
-	while (i < size)
-	{
-		printf("%d", tab[i]);
-		i++;
-	}
-	return (0);
-}
-*/
