@@ -4,20 +4,20 @@ This repository contains exercises developed during the **42 São Paulo Piscine*
 
 ---
 
-## 📚 About the Piscine
+## About the Piscine
 
 The Piscine is a highly immersive program where students learn programming through peer-to-peer collaboration, problem-solving, and hands-on projects — without traditional lectures.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-### 🖥️ Shell
+### Shell
 
 * **shell00** – Introduction to terminal and basic commands
 * **shell01** – File manipulation, permissions, and basic scripting
 
-### 💻 C Language
+### C Language
 
 * **C01** – Variables, loops, and basic logic
 * **C02** – Strings and character manipulation
@@ -27,7 +27,7 @@ The Piscine is a highly immersive program where students learn programming throu
 
 ---
 
-## 🚀 Objective
+## Objective
 
 The goal of this repository is to demonstrate:
 
@@ -38,7 +38,7 @@ The goal of this repository is to demonstrate:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * C Programming Language
 * Shell (Bash)
@@ -46,7 +46,7 @@ The goal of this repository is to demonstrate:
 
 ---
 
-## 📌 42 Rules
+## 42 Rules
 
 All exercises follow the constraints imposed by 42:
 
@@ -57,7 +57,7 @@ All exercises follow the constraints imposed by 42:
 
 ---
 
-## 📈 Key Learnings
+## Key Learnings
 
 * Memory manipulation
 * Pointer usage
@@ -67,13 +67,13 @@ All exercises follow the constraints imposed by 42:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Douglas Jesus Leite
 https://github.com/douglasjleite
 
 ---
 
-## 📌 Status
+ Status
 
 ✅ Completed — This repository represents the work delivered during the 26-day Piscine at 42 São Paulo.
