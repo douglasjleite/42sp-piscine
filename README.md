@@ -40,9 +40,10 @@ The goal of this repository is to demonstrate:
 
 ## Technologies Used
 
-* C Programming Language
+* Linux
 * Shell (Bash)
 * Git & GitHub
+* C Programming Language
 
 ---
 
